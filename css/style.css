@@ -1,0 +1,116 @@
+body {
+  background-image: url(/imgs/photo-1597200381847-30ec200eeb9a.avif)
+}
+
+.title {
+  text-align: center;
+  color: blue;
+
+}
+
+
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 80px;
+  background-color: black;
+  border: 5px solid yellow;
+
+}
+
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: lightblue;
+  border-radius: 50px;
+  padding: 10px;
+  margin: 20px;
+
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.btn {
+  border-radius: 10px;
+  color: black;
+  background-color: greenyellow;
+  border-radius: 10px;
+
+}
+
+.card-img-top {
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.accordion-item {
+  background-color: lightgray;
+}
+
+.accordion-button {
+  background-color: lightblue;
+  color: rgba(0, 0, 0, 0.637);
+
+
+}
+
+.accordion {
+  padding: 50px;
+}
+
+.badge {
+  margin-left: 20px;
+
+}
+
+.accordion-body {}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100px;
+}
+
+.d-flex {
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+
+}
+
+.speach-bubble {
+  display: flex;
+  align-items: center;
+
+}
+
+.bubble {
+  position: relative;
+
+  left: 0px;
+
+}
+
+.ddd {
+  position: relative;
+  top: 0px;
+  right: 130px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
